@@ -5,6 +5,8 @@ I create the environment to track the history. Otherwise the computer will not d
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
 
+Staging area is the temporary place before I add a commit. It helps to make sure that I am confident with what I want to commit. It also gives the flexibility to choose the files added to the commit.
+
 How can you use the staging area to make sure you have one commit per logical
 change?
 
