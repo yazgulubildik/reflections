@@ -10,13 +10,19 @@ Staging area is the temporary place before I add a commit. It helps to make sure
 How can you use the staging area to make sure you have one commit per logical
 change?
 
+If I make a change that I am sure of, but not big enough to put it into a commit, I can put it into a staging area. Then I can take a break or do sth else in my working directory, and if I forget what I did I can compare staging area with WD and see whether they make sense.
+I can also compare the staging area with the last commit to see what changes I really made and see whether I made a mistake before committing.
+
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+If I want to do sth different from the master change I can create a branch. This can be sth experimental or it can be a different version of the same program like making a website in italian
 
 How do the diagrams help you visualize the branch structure?
+Like a tree.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
+Because it includes the changes from both branches. It is merging one into the other therefore you show it like that.
 
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
